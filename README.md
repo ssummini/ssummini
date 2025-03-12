@@ -8,12 +8,17 @@
 <div>
   <!--Body-->
   
-  ## ✨ About Me
-  #### 👋 Hi there! I'm a Full Stack Developer.
-  💻 I specialize in building robust APIs, dynamic Web Applications, and user-friendly Mobile Apps.
-  🚀 Passionate about scalable architecture, cloud integration, and performance optimization.
-  🎯 Currently focused on Spring Boot, React, and Cloud-based solutions.
-  📍 Always exploring new technologies to enhance user experience and system efficiency.
+<div align="center">
+  
+## ✨ About Me  
+#### 👋 Hi there! I'm a Full Stack Developer.  
+💻 I specialize in building **robust APIs, dynamic Web Applications, and user-friendly Mobile Apps.**  
+🚀 Passionate about **scalable architecture, cloud integration, and performance optimization.**  
+🎯 Currently focused on **Spring Boot, React, and Cloud-based solutions.**  
+📍 Always exploring new technologies to **enhance user experience and system efficiency.**  
+
+</div>
+
 
   <br/>
   <br/>
