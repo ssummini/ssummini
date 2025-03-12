@@ -8,10 +8,13 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  ## ✨ About Me
+  #### 👋 Hi there! I'm a Full Stack Developer.
+  💻 I specialize in building robust APIs, dynamic Web Applications, and user-friendly Mobile Apps.
+  🚀 Passionate about scalable architecture, cloud integration, and performance optimization.
+  🎯 Currently focused on Spring Boot, React, and Cloud-based solutions.
+  📍 Always exploring new technologies to enhance user experience and system efficiency.
+
   <br/>
   <br/>
   
