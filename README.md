@@ -18,51 +18,57 @@
   ## 🧱 Tech Stack
   ### Frontend
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>  
   <br/>
   
   ### Backend
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <!--SPRINGBOOT-->
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <!--spring-->
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SPRINGBOOT&logoColor=white"/>
+  <!--SPRING-->
+  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/>
   <!--PYTHON-->
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
   <!--nodedotjs-->
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=NODE.JS&logoColor=white"/>
   <br/>
   
   ### Devops % Infrastructure
   <!--JENKINS-->
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=JENKINS&logoColor=white"/>
   <!--DOCKER-->
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=DOCKER&logoColor=white"/>
   <!--NGINX-->
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white&Color=white"/>
   <!--NAVERCLOUD-->
-  <img src="https://img.shields.io/badge/NAVERCLOUD-61DAFB?style=flat-square&logo=NAVERCLOUD&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/NAVERCLOUD-22B14C?style=flat-square&logo=NAVERCLOUD&logoColor=white&Color=white"/>
   <br/>
 
   ### Database
-  ### Tools & Collaboration
+  <!--MYSQL-->
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white&Color=white"/>
+  <!--ORACLE-->
+  <img src="https://img.shields.io/badge/ORACLE-4479A1?style=flat-square&logo=ORACLE&logoColor=white&Color=white"/>
+  <br/>
   
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  ### Tools & Collaboration
+  <!--GIT-->
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white&Color=white"/>
+  <!--GITHUB-->
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white&Color=white"/>
+  <!--FIGMA-->
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white&Color=white"/>
+  <!--NOTION-->
+  <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white&Color=white"/>
   <br/>
-  <br/>
+  
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
