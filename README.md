@@ -8,7 +8,7 @@
 <div>
   <!--Body-->
   
-<div align="center">
+<div>
   
 ## ✨ About Me  
 #### 👋 Hi there! I'm a Full Stack Developer.  
