@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFB6C1,FFC0CB,F4A7B9&height=250&section=header&text=Welcome!💖&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
 
-<div align="center">
+<div>
   
 # 🌸 **Hello! I'm a Full Stack Developer** 🌸  
 💻 **Building Robust APIs, Dynamic Web Apps, & User-Friendly Mobile Apps**  
@@ -56,7 +56,7 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
+<div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssummini&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssummini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
