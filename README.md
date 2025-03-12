@@ -67,7 +67,7 @@
 
 ## 🚀 **Let's Connect!**
 💌 **Email**: `wjstnals5@naver.com`  
-🔗 **Portfolio**: file:///C:/Users/user/Desktop/image2/%EC%A0%84%EC%88%98%EB%AF%BC(%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4).pdf 
+🔗 **Portfolio**: [file:///C:/Users/user/Desktop/image2/%EC%A0%84%EC%88%98%EB%AF%BC(%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4).pdf ](https://drive.google.com/file/d/1V0cxvWwoBG6ZiuIbA8auKzjkGf9R0lIi/view?usp=drive_link)
 
 ---
 
