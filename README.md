@@ -28,7 +28,7 @@
   <br/>
   
   ### Backend
-  <!-JAVA-->
+  <!--JAVA-->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <!--SPRINGBOOT-->
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -41,12 +41,14 @@
   <br/>
   
   ### Devops % Infrastructure
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <!--JENKINS-->
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <!--DOCKER-->
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <!--NGINX-->
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white&Color=white"/>
+  <!--NAVERCLOUD-->
+  <img src="https://img.shields.io/badge/NAVERCLOUD-61DAFB?style=flat-square&logo=NAVERCLOUD&logoColor=white&Color=white"/>
   <br/>
 
   ### Database
