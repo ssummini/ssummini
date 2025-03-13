@@ -73,5 +73,5 @@
 ---
 
 <!--
-🎀 Customized & Designed by [Your GitHub ID]  
+🎀 Customized & Designed by ssummini
 -->
