@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFD1DC&height=250&section=header&text=Welcome!💖&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFD1DC&height=250&section=header&text=Welcome!💖%0AI'm%20Jeon%20Sumin,%20a%20Web%20Developer!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 <div>
   
