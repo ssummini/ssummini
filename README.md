@@ -4,71 +4,90 @@
 
 <div>
   
-# 🌸 **Hello! I'm a Full Stack Developer** 🌸  
-💻 **Building Robust APIs, Dynamic Web Apps, & User-Friendly Mobile Apps**  
-🚀 **Passionate about scalable architecture, cloud computing, & performance optimization**  
-🎯 **Currently working with Spring Boot, React, & Cloud-based solutions**  
+# 💻 Hello, I'm Sumin Jeon  
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=ssummini&color=ff69b4)  
+Backend Developer focused on building **secure, scalable, and well-structured systems**.  
+I enjoy designing APIs, implementing authentication systems, and deploying full-stack applications to the cloud.
+
+🚀 Currently strengthening backend fundamentals through solo architecture projects.  
+☁️ Interested in Cloud, DevOps, and performance optimization.
 
 </div>
 
 ---
 
-## 📌 **About Me**  
-- 🎓 **Education**: Studied **Medical IT Engineering** at Soonchunhyang University (SCH)
-- 💼 **Experience**: Building e-commerce platforms with **Spring Boot & React**  
-- 💡 **Currently Exploring**: **Cloud AI & DevOps**  
-- 🌟 **Interests**: Performance optimization, cloud integration, and scalable solutions  
+## 🚀 Featured Projects
+
+### 🏢 MiniBackoffice (Solo Project)
+> A backend-focused admin system built to deepen architecture and deployment experience.
+
+- JWT Authentication & Role-Based Authorization (USER / ADMIN)
+- CRUD API Design (Layered Architecture)
+- dev(H2) / prod(PostgreSQL) profile separation
+- Environment variable & security configuration
+- Render deployment (Production environment)
+- Frontend integration with React + Axios
+
+🔗 Backend Repository: https://github.com/ssummini?tab=repositories
+🔗 Frontend Repository: https://github.com/ssummini/MiniBackoffice-Frontend
+
+---
+
+### 🛒 MOIVO (Team Project, 7 Members)
+> Fashion E-commerce Platform
+
+- Spring Boot + React full-stack development
+- JWT authentication & member management
+- Grade automation (Scheduler-based logic)
+- Coupon issuance & MyPage features
+- Toss Payments integration
+- Jenkins CI/CD pipeline
+- NCP Object Storage for image management
+
+🔗 Project Repository: https://github.com/ssummini/Moivo_project
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-### **🌟 Frontend**
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white)
-
-### **🚀 Backend**
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=NODE.JS&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=PYTHON&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
 
-### **☁️ DevOps & Cloud**
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square&logo=POSTGRESQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white)
+
+### ☁️ DevOps & Cloud
 ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=JENKINS&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=DOCKER&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/NAVER%20CLOUD-22B14C?style=flat-square&logo=naver&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-### **📂 Database**
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white)
-
-### **🔧 Tools & Collaboration**
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white)
-![Notion](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats**
+## 📌 About Me
 
-<div>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssummini&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssummini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+🎓 Medical IT Engineering, Soonchunhyang University  
+💡 Interested in backend architecture & clean code  
+🔐 Focused on authentication, authorization, and API design  
+📈 Continuously improving through personal projects and technical blogging  
 
 ---
 
-## 🚀 **Let's Connect!**
-💌 **Email**: `wjstnals5@naver.com`  
-🔗 **Portfolio**: file:///C:/Users/user/Desktop/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EC%A0%84%EC%88%98%EB%AF%BC).pdf
+## 📫 Contact
+
+📧 wjstnals5@naver.com  
+📂 Portfolio: https://drive.google.com/file/d/1mcPD0h34iO8wSdYtf2-XCsMn9Q5dNHEY/view?usp=sharing
 
 ---
 
